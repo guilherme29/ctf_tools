@@ -47,6 +47,10 @@ A compilation of handy tools to solve ctfs.
 
 [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 
+[aquatone](https://github.com/michenriksen/aquatone) - tool for visual inspection of websites across a large amount of hosts; convenient for quickly gaining an overview of HTTP-based attack surface.
+
+[burp suite](https://portswigger.net/burp) - graphical tool for testing Web application security
+
 
 
 ## Forensics
