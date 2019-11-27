@@ -41,6 +41,7 @@ A compilation of handy tools to solve ctfs.
 ## Web exploitation
 [Wappalyzer](https://www.wappalyzer.com) - utility that uncovers the technologies used on websites
 
+[dirsearch](https://github.com/maurosoria/dirsearch) - simple command line tool designed to brute force directories and files in websites
 
 
 ## Forensics
