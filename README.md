@@ -17,6 +17,8 @@ A compilation of handy tools to solve ctfs.
 
 [IDA-Free](https://www.hex-rays.com/products/ida/index.shtml) - multi-processor disassembler and debugger
 
+[Ghidra](https://ghidra-sre.org) - reverse engineering suite of tools developed by NSA's Research Directorate
+
 
 
 ## Cryptography
@@ -25,7 +27,7 @@ A compilation of handy tools to solve ctfs.
 [john-the-ripper](https://www.openwall.com/john/) - password cracker
 
 
-
+						  
 ## Network
 [nmap](https://nmap.org) (command) - utility for network discovery and security auditing
 
@@ -42,6 +44,9 @@ A compilation of handy tools to solve ctfs.
 [Wappalyzer](https://www.wappalyzer.com) - utility that uncovers the technologies used on websites
 
 [dirsearch](https://github.com/maurosoria/dirsearch) - simple command line tool designed to brute force directories and files in websites
+
+[Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
+
 
 
 ## Forensics
