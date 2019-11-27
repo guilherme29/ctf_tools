@@ -13,13 +13,22 @@ A compilation of handy tools to solve ctfs.
 
 [IDA-Free](https://www.hex-rays.com/products/ida/index.shtml) - multi-processor disassembler and debugger
 
+
+
 ## Cryptography
 [CyberChef](https://github.com/gchq/CyberChef) - handy web app to encode and decode stuff
+
+
 
 ## Network
 [TCPdump](https://www.tcpdump.org) (command) - command line packet analyzer
 
+
+
 ## Web exploitation
+[Wappalyzer](https://www.wappalyzer.com) - utility that uncovers the technologies used on websites
+
+
 
 ## Extra
 
